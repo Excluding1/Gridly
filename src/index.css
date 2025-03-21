@@ -1,0 +1,12 @@
+.bg-dot-grid-light {
+  background-image: radial-gradient(#ccc 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+.bg-dot-grid-dark {
+  background-image: radial-gradient(#444 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
